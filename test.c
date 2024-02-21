@@ -1,6 +1,8 @@
-교수님 바보
-히히
-어쩔티비
-응
-어쩔
-어쩔어쩔
+#include <stdio.h>
+
+int main(void)
+{
+	printf("%s", "ㅋㅋ어쩔티비");
+	
+	return (0);
+}
